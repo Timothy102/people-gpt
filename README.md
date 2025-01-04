@@ -1,8 +1,8 @@
-# PartnerHQ TimC Take Home Task: "PeopleGPT"
+# PeopleGPT - Finding people based on their work experience"
 
 ### What I've Done
 
-Hey, Stan. I used Mistral-7B for NaiveRAG(query + retrieval) & Self-Query RAG to try and build a “people search engine”. The majority of the work can be found in both notebooks. You’ve been added as a private collaborator to the private repo here.
+I used Mistral-7B for NaiveRAG(query + retrieval) & Self-Query RAG to try and build a “people search engine”. The majority of the work can be found in both notebooks.
 
 ## Running the Frontend
 To run the frontend components of the "PeopleGPT" project, follow these steps:
@@ -47,9 +47,5 @@ To run the backend components of the "PeopleGPT" project, follow these steps:
                 3. K8s vertical scaler across worker nodes.
                 4. Model partitioning.
                 5. Inference servers, like Triton.
-4. Comments
-    1. Current implementation is way too memory & compute intensive for what we need. 
-    2. It’s been a packed week in SF and back. This took me a day. It’s far from perfect. I would have wanted to spend more time on this, coming up with a cleaner solution to perform filtering + RAG + fine-tuning. Unfortunately, that’s all the time I have at the moment.
-    3. Feel free to take this code and use it in whatever way.
 
 tim@timcvetko.com
