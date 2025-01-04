@@ -1,4 +1,4 @@
-# PeopleGPT - Finding people based on their work experience"
+# PeopleGPT - "Finding people based on their work experience"
 
 ### What I've Done
 
